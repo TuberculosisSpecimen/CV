@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-Sean Purcell is a digital health humanist who works at UCSF>
+Sean Purcell is a digital health humanist who works at UCSF. His work focuses on the moments when human subjects are turned into research objects in the process of medical science.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-- **Digital Health Humanities:** I do things.
+- **Media Studies:** Media studies stuff!
+- **Health Humanities:** History of Medicine
+- **Digital Health Humanities:** Minimal Computing, Opaque Methodologies, Critical DH
 
 {% include_relative _includes/education.md %}
 
