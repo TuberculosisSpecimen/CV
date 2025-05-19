@@ -20,7 +20,7 @@ Sean Purcell is a digital health humanist who works at UCSF. A critical digital 
 
 {% include_relative _includes/employment.md %}
 
-{% include_relative _includes/pubs.md %}
+<!--some text{% include_relative _includes/pubs.md %}-->
 
 <!--{% include_relative _includes/art.md %}--> <!-- you can escape this line if you don't have any art examples -->
 
