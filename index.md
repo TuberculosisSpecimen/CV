@@ -6,6 +6,8 @@ layout: homepage
 
 Sean Purcell is a digital health humanist who works at UCSF. His work examines the ethics of working with historical health data.
 
+A paragraph break.
+
 ## Research Interests
 
 - **Digital Health Humanities:** Open Source Publishing, Digital Ethics, History of TB
