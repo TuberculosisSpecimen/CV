@@ -18,9 +18,9 @@ Sean Purcell is a digital health humanist who works at UCSF. I teach workshops o
 
 {% include_relative _includes/pubs.md %}
 
-<!--{% include_relative _includes/art.md %}--> <!-- you can escape this line if you don't have any art examples -->
+{% include_relative _includes/art.md %} <!-- you can escape this line if you don't have any art examples -->
 
-{% include_relative _includes/grants.md %}
+<!--{% include_relative _includes/grants.md %}-->
 
 {% include_relative _includes/awards.md %}
 
